@@ -1,0 +1,10 @@
+html,
+body{
+    background-color: rgba(247,249,252,1);
+    /*background: rgb(233, 233, 235);*/
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
